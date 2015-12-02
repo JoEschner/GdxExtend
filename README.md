@@ -1,4 +1,3 @@
 # joGdxExtend
 
-A Library
-w
+A LibGdx library extension
