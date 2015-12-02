@@ -1,3 +1,3 @@
 # joGdxExtend
 
-A LibGdx library extension
+A LibGdx library extension by jojpeg
